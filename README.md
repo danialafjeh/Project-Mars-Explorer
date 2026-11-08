@@ -1,10 +1,10 @@
 # 💻 About This Project 
 
 [Complete Guide | Run this project on your computer](https://github.com/danialafjeh/Run-My-Projects-Locally)<br>
-Projects are numbered in development order. Higher numbers represent newer projects that introduce new backend tools, concepts, and increasing levels of complexity throughout my learning journey.
-
 
 # Mars Explorer Website
+
+Complexity : Intermediate
 
 A Django-based Mars exploration and information platform built to present structured scientific data about Mars while demonstrating practical backend architecture with PostgreSQL, Redis caching, cache invalidation, Docker, and automated database initialization.
 
