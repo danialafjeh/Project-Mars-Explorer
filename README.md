@@ -4,7 +4,7 @@
 Projects are numbered in development order. Higher numbers represent newer projects that introduce new backend tools, concepts, and increasing levels of complexity throughout my learning journey.
 
 
-# Mars Explorer
+# Mars Explorer Website
 
 A Django-based Mars exploration and information platform built to present structured scientific data about Mars while demonstrating practical backend architecture with PostgreSQL, Redis caching, cache invalidation, Docker, and automated database initialization.
 
