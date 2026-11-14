@@ -6,7 +6,7 @@
 
 Complexity : Intermediate
 
-A Django-based Mars exploration and information platform built to present structured scientific data about Mars while demonstrating practical backend architecture with PostgreSQL, Redis caching, cache invalidation, Docker, and automated database initialization.
+A Django-based Mars exploration and information web application with frontend and backend built to present structured scientific data about Mars while demonstrating practical backend architecture with PostgreSQL, Redis caching, cache invalidation, Docker, and automated database initialization.
 
 The project combines a server-side rendered Django application with a PostgreSQL database as the primary data source and Redis as a caching layer. It is designed around the idea that relatively static planetary information does not need to be queried from PostgreSQL on every request.
 
